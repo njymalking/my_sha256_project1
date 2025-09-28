@@ -1,6 +1,6 @@
 # Flutter SHA256 + PDF Report
 
-A minimal Flutter app that:
+A minimal Flutter app that :
 - Computes SHA256 of input text or a picked file.
 - Generates a simple PDF report containing the computed hash and metadata.
 - Uses `file_picker` to select files, `crypto` for hashing, and `pdf` + `printing` to create/share the PDF.
